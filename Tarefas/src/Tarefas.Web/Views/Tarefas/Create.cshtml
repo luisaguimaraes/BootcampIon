@@ -1,7 +1,10 @@
 @model Tarefas.Web.Models.TarefaViewModel
 
 <form asp- action="Create">
+    @Html.DisplayNameFor(model => model.Titulo)
     <input asp- for="Título">
+    <br/>
+    @Html.DisplayNameFor(model => model.Descricao)
     <input asp- for="Descrição">
     <input type="submit">
 </form>
