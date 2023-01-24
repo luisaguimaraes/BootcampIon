@@ -2,9 +2,12 @@
 
 <form asp- action="Create">
     @Html.DisplayNameFor(model => model.Titulo)
+    <label for="Titulo">Título da Tarefa:</label>
     <input asp- for="Título">
     <br/>
+    <label for="Titulo">Descrição da Tarefa:</label>
     @Html.DisplayNameFor(model => model.Descricao)
     <input asp- for="Descrição">
-    <input type="submit">
+    <br />
+    <button type="submit" class="btn-primary">Enviar</button>
 </form>
