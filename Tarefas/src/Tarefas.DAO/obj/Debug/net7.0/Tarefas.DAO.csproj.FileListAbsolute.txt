@@ -1,0 +1,15 @@
+/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.csproj.AssemblyReference.cache
+/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.GeneratedMSBuildEditorConfig.editorconfig
+/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.AssemblyInfoInputs.cache
+/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.AssemblyInfo.cs
+/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.csproj.CoreCompileInputs.cache
+/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DAO/bin/Debug/net7.0/Tarefas.DAO.deps.json
+/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DAO/bin/Debug/net7.0/Tarefas.DAO.dll
+/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DAO/bin/Debug/net7.0/Tarefas.DAO.pdb
+/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DAO/bin/Debug/net7.0/Tarefas.DTO.dll
+/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DAO/bin/Debug/net7.0/Tarefas.DTO.pdb
+/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.csproj.CopyComplete
+/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.dll
+/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/refint/Tarefas.DAO.dll
+/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.pdb
+/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/ref/Tarefas.DAO.dll
