@@ -11,6 +11,9 @@
         <th>
             @Html.DisplayNameFor(model => model.Descricao)
         </th>
+        <th>
+            Ações
+        </th>
     </thead>
 
     @foreach (var item in Model)
@@ -25,6 +28,9 @@
         </td>
         <td>
             @item.Descricao
+        </td>
+        <td>
+            <a asp-asp-controller="Tarefa" asp-action="Details" asp-route-id="@item.Id">Detalhes</a>
         </td>
     </tr>
     </tbody>
