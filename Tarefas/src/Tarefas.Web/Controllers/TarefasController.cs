@@ -14,9 +14,9 @@ public class TarefasController : Controller
     {
         var listaDeTarefas = new List<TarefaViewModel>()
         {
-            new TarefaViewModel(){ Titulo = "Escovar os dentes" , Descricao = "Lembrar de usar o Listerine" },
-            new TarefaViewModel(){ Titulo = "Arrumar a cama" , Descricao = "Alinhar o lençol de elástico"},
-            new TarefaViewModel(){ Titulo = "Por o lixo pra fora" , Descricao = "Somente às terças, quintas e sábados."}
+            new TarefaViewModel(){ Id = 1, Titulo = "Escovar os dentes" , Descricao = "Lembrar de usar o Listerine" },
+            new TarefaViewModel(){ Id = 2, Titulo = "Arrumar a cama" , Descricao = "Alinhar o lençol de elástico"},
+            new TarefaViewModel(){ Id = 3, Titulo = "Por o lixo pra fora" , Descricao = "Somente às terças, quintas e sábados."}
         };
 
         return View(listaDeTarefas);

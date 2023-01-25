@@ -1,8 +1,11 @@
 @model IEnumerable<Tarefas.Web.Models.TarefaViewModel>
 
-<table>
-    <thead>
+<table class="table">
+    <thead class="thead-dark">
         <th>
+            @Html.DisplayNameFor(model =>model.Id)
+        </th>
+        <th scope="col">
             @Html.DisplayNameFor(model => model.Titulo)
         </th>
         <th>
@@ -12,7 +15,11 @@
 
     @foreach (var item in Model)
     {
-        <tr>
+        <tbody>
+        <tr scope="col">
+        <td>
+            @item.Id
+        </td>
         <td>
             @item.Titulo
         </td>
@@ -20,10 +27,6 @@
             @item.Descricao
         </td>
     </tr>
+    </tbody>
     }
 </table>
-
-
-
-
-@* %* alteração teste *@
