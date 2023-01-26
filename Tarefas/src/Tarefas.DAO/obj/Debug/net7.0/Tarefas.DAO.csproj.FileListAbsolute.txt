@@ -13,3 +13,18 @@
 /home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/refint/Tarefas.DAO.dll
 /home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.pdb
 /home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/ref/Tarefas.DAO.dll
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DAO\bin\Debug\net7.0\Tarefas.DAO.deps.json
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DAO\bin\Debug\net7.0\Tarefas.DAO.dll
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DAO\bin\Debug\net7.0\Tarefas.DAO.pdb
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DAO\bin\Debug\net7.0\Tarefas.DTO.dll
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DAO\bin\Debug\net7.0\Tarefas.DTO.pdb
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DAO\obj\Debug\net7.0\Tarefas.DAO.csproj.AssemblyReference.cache
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DAO\obj\Debug\net7.0\Tarefas.DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DAO\obj\Debug\net7.0\Tarefas.DAO.AssemblyInfoInputs.cache
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DAO\obj\Debug\net7.0\Tarefas.DAO.AssemblyInfo.cs
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DAO\obj\Debug\net7.0\Tarefas.DAO.csproj.CoreCompileInputs.cache
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DAO\obj\Debug\net7.0\Tarefas.DAO.csproj.CopyComplete
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DAO\obj\Debug\net7.0\Tarefas.DAO.dll
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DAO\obj\Debug\net7.0\refint\Tarefas.DAO.dll
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DAO\obj\Debug\net7.0\Tarefas.DAO.pdb
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DAO\obj\Debug\net7.0\ref\Tarefas.DAO.dll

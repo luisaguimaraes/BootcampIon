@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Tarefas.Web
 build_property.RootNamespace = Tarefas.Web
-build_property.ProjectDir = /home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.Web/
+build_property.ProjectDir = C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.Web\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.Web
+build_property.MSBuildProjectDirectory = C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.Web/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[C:/Users/Luísa Guimarães/Desktop/Treinamento BootcampIon/BootcampIon/Tarefas/src/Tarefas.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.Web/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[C:/Users/Luísa Guimarães/Desktop/Treinamento BootcampIon/BootcampIon/Tarefas/src/Tarefas.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.Web/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[C:/Users/Luísa Guimarães/Desktop/Treinamento BootcampIon/BootcampIon/Tarefas/src/Tarefas.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/Luísa Guimarães/Desktop/Treinamento BootcampIon/BootcampIon/Tarefas/src/Tarefas.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.Web/Views/Tarefas/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFyZWZhcy9DcmVhdGUuY3NodG1s
+[C:/Users/Luísa Guimarães/Desktop/Treinamento BootcampIon/BootcampIon/Tarefas/src/Tarefas.Web/Views/Tarefas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.Web/Views/Tarefas/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFyZWZhcy9EZXRhaWxzLmNzaHRtbA==
+[C:/Users/Luísa Guimarães/Desktop/Treinamento BootcampIon/BootcampIon/Tarefas/src/Tarefas.Web/Views/Tarefas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.Web/Views/Tarefas/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFyZWZhcy9JbmRleC5jc2h0bWw=
+[C:/Users/Luísa Guimarães/Desktop/Treinamento BootcampIon/BootcampIon/Tarefas/src/Tarefas.Web/Views/Tarefas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.Web/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/Luísa Guimarães/Desktop/Treinamento BootcampIon/BootcampIon/Tarefas/src/Tarefas.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.Web/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/Luísa Guimarães/Desktop/Treinamento BootcampIon/BootcampIon/Tarefas/src/Tarefas.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.Web/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-tiw6yy225m
+[C:/Users/Luísa Guimarães/Desktop/Treinamento BootcampIon/BootcampIon/Tarefas/src/Tarefas.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4ew0u1qzhm

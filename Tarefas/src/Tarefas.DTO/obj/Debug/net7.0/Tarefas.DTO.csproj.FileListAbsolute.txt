@@ -10,3 +10,15 @@
 /home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DTO/obj/Debug/net7.0/refint/Tarefas.DTO.dll
 /home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DTO/obj/Debug/net7.0/Tarefas.DTO.pdb
 /home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DTO/obj/Debug/net7.0/ref/Tarefas.DTO.dll
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DTO\bin\Debug\net7.0\Tarefas.DTO.deps.json
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DTO\bin\Debug\net7.0\Tarefas.DTO.dll
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DTO\bin\Debug\net7.0\Tarefas.DTO.pdb
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DTO\obj\Debug\net7.0\Tarefas.DTO.csproj.AssemblyReference.cache
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DTO\obj\Debug\net7.0\Tarefas.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DTO\obj\Debug\net7.0\Tarefas.DTO.AssemblyInfoInputs.cache
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DTO\obj\Debug\net7.0\Tarefas.DTO.AssemblyInfo.cs
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DTO\obj\Debug\net7.0\Tarefas.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DTO\obj\Debug\net7.0\Tarefas.DTO.dll
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DTO\obj\Debug\net7.0\refint\Tarefas.DTO.dll
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DTO\obj\Debug\net7.0\Tarefas.DTO.pdb
+C:\Users\Luísa Guimarães\Desktop\Treinamento BootcampIon\BootcampIon\Tarefas\src\Tarefas.DTO\obj\Debug\net7.0\ref\Tarefas.DTO.dll

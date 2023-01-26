@@ -147,19 +147,19 @@
     ]
   },
   "packageFolders": {
-    "/home/decom/.nuget/packages/": {}
+    "C:\\Users\\Luísa Guimarães\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.Web/Tarefas.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Luísa Guimarães\\Desktop\\Treinamento BootcampIon\\BootcampIon\\Tarefas\\src\\Tarefas.Web\\Tarefas.Web.csproj",
       "projectName": "Tarefas.Web",
-      "projectPath": "/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.Web/Tarefas.Web.csproj",
-      "packagesPath": "/home/decom/.nuget/packages/",
-      "outputPath": "/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.Web/obj/",
+      "projectPath": "C:\\Users\\Luísa Guimarães\\Desktop\\Treinamento BootcampIon\\BootcampIon\\Tarefas\\src\\Tarefas.Web\\Tarefas.Web.csproj",
+      "packagesPath": "C:\\Users\\Luísa Guimarães\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Luísa Guimarães\\Desktop\\Treinamento BootcampIon\\BootcampIon\\Tarefas\\src\\Tarefas.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/decom/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Luísa Guimarães\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -171,11 +171,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DAO/Tarefas.DAO.csproj": {
-              "projectPath": "/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DAO/Tarefas.DAO.csproj"
+            "C:\\Users\\Luísa Guimarães\\Desktop\\Treinamento BootcampIon\\BootcampIon\\Tarefas\\src\\Tarefas.DAO\\Tarefas.DAO.csproj": {
+              "projectPath": "C:\\Users\\Luísa Guimarães\\Desktop\\Treinamento BootcampIon\\BootcampIon\\Tarefas\\src\\Tarefas.DAO\\Tarefas.DAO.csproj"
             },
-            "/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DTO/Tarefas.DTO.csproj": {
-              "projectPath": "/home/decom/Documentos/Treinamento-Tarde/BootcampIon/Tarefas/src/Tarefas.DTO/Tarefas.DTO.csproj"
+            "C:\\Users\\Luísa Guimarães\\Desktop\\Treinamento BootcampIon\\BootcampIon\\Tarefas\\src\\Tarefas.DTO\\Tarefas.DTO.csproj": {
+              "projectPath": "C:\\Users\\Luísa Guimarães\\Desktop\\Treinamento BootcampIon\\BootcampIon\\Tarefas\\src\\Tarefas.DTO\\Tarefas.DTO.csproj"
             }
           }
         }
@@ -208,7 +208,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/decom/.dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
